@@ -1,2 +1,2 @@
 # API
-inquiries in Postman
+Inquiries in Postman
