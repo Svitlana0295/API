@@ -2,4 +2,4 @@
 Inquiries in Postman
 
 
-ЦЕ РЕПОЗИТОРІЙ ДЛЯ ЗБЕРЕЖЕННЯ ЗАПИТІВ В Postman
+THIS IS A REPOSITORY FOR SAVING REQUESTS IN Postman
